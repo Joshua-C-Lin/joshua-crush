@@ -1,0 +1,11 @@
+body {
+  background-color: gray;
+}
+.wrapper {
+  margin: 100px auto;
+  background-color: #505050;
+  padding: 25px;
+  border-radius: 20px;
+  box-shadow: 2px 0px 3px 0px rgb(0 0 0 / 20%),
+    -2px 0px 3px 0px rgb(0 0 0 / 20%);
+}
